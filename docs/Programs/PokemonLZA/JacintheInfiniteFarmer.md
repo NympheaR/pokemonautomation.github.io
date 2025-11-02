@@ -49,6 +49,10 @@ In both modes, if your Pokémon faints, it will automatically timeout and switch
   - Heavy Slam used by a Lv. 100, full attack IV and EV and adamant nature alpha Metagross, one shots every Jacinthe's Pokémon.
   - Other good moves: Iron Head and Earthquake. Earthquake is to defeat Mawile that is neutral to steel attacks.
 
+### Notes
+
+- Due to randomness during battle, occasionally the program may fail to beat Jacinthe. Unlike the restaurants, it costs nothing to challenge her. So you won't lose money by leaving the program running unattended. But once the program fails the battle, the starting Pokémon may likely not be your strongest counter against Jacinthe any more, reducing farming efficiency until the counter becomes the starting Pokémon again. If you don't care about earning exp, you can bring only the counter in your party to address this.
+
 ## Credits
 
 - **Author:** Gin, Kuroneko/Mysticial
