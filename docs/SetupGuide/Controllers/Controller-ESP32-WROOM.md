@@ -240,7 +240,7 @@ Once an ESP32 controller is paired with a console, it will be able to reconnect 
 
 **Important:** On the ESP32, reconnect only works correctly with the Switch 2. On the Switch 1, it will usually fail. If you see a red status, "Disconnected by console.", it means the reconnect failed and you will need to return to the Grip menu and SHIFT + click "Reset Ctrl" to re-pair with the Switch.
 
-This bug is being tracked by [Issue 587](https://github.com/PokemonAutomation/Arduino-Source/issues/587).
+This bug is being tracked by [Issue 800](https://github.com/PokemonAutomation/Arduino-Source/issues/800).
 
 
 ## Troubleshooting:
@@ -324,6 +324,7 @@ It is as cute as it is stupid, and it will give you problems. We tried it so you
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
