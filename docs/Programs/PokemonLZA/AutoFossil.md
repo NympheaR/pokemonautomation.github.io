@@ -9,6 +9,13 @@ Hunt alpha and/or shiny fossil Pokémon by repeatedly reviving them and checking
 
 ### Instructions
 
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](../NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+
+**Game Settings:**
+
 1. Face toward the fossil researcher Reg in the Pokémon lab and have the button A visible.
 2. Ensure your party is FULL to let all revived fossils go into box.
 3. The current and following boxes are EMPTY. The exact number of boxes to leave empty depends on how many fossils you want to revive in one go.
@@ -54,6 +61,7 @@ When program finishes, whether to go to Switch home screen.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
