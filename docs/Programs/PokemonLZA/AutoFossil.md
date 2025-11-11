@@ -7,7 +7,8 @@ Hunt alpha and/or shiny fossil Pokémon by repeatedly reviving them and checking
 
 <img src="images/AutoFossil.jpg">
 
-### Instructions
+
+### Setup of Settings
 
 **Switch Settings:**
 
@@ -23,7 +24,8 @@ Hunt alpha and/or shiny fossil Pokémon by repeatedly reviving them and checking
 
 1. Text Speed: Fast
 
-**Setup:**
+
+### Instructions
 
 1. Face toward the fossil researcher Reg in the Pokémon lab and have the button A visible.
 2. Ensure your party is FULL to let all revived fossils go into box.

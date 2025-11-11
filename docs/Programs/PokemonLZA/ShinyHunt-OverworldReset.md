@@ -13,7 +13,8 @@ The important aspect of this method is that you must be close enough to the spaw
 <img src="images/ShinyHunt-OverworldReset.png">
 (image credit: Scotteh)
 
-### Instructions
+
+### Setup of Settings
 
 **Switch Settings:**
 
@@ -29,7 +30,8 @@ The important aspect of this method is that you must be close enough to the spaw
 
 1. Text Speed: Fast
 
-**Setup:**
+
+### Instructions
 
 1. Save near a Pokémon that is about to respawn.
 2. Start the program in the game.

@@ -8,11 +8,12 @@ Keep throwing ball until you catch the Pokémon you're fighting. In case of fail
 
 <img src="images/AutonomousBallThrower-0.png">
 
-## Preparation Instructions
+### Setup of Settings
 
 **Switch Settings:**
 
 1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
 
 **Program Settings:**
 
@@ -23,7 +24,8 @@ Keep throwing ball until you catch the Pokémon you're fighting. In case of fail
 1. Text Speed: Fast
 2. Auto-Save: Off
 
-## Instructions
+
+### Instructions
 
 1. Run the program while in fight with the Pokémon you want to catch
 

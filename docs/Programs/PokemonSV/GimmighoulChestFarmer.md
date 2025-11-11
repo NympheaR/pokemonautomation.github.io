@@ -19,6 +19,7 @@ Farm Gimmighoul chests by advancing the in-game day with date skipping.
 **Program Settings:**
 
 1. Video Resolution: 1080p or higher
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
 
 **Game Settings:**
 

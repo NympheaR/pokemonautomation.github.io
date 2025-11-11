@@ -10,6 +10,7 @@ Trade boxes of Pokémon between two Switches locally.
 **Switch Settings:**
 
 1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
 
 **Program Settings:**
 

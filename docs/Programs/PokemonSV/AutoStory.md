@@ -9,13 +9,14 @@ This program will automate the Scarlet/Violet story.
 
 The program has two sections: the tutorial and the main story. After it finishes the tutorial, the program will pause. If you want to automate the main story, you will need to ensure that your party has a level 100 Gardevoir, and two other strong pokemon (see below for more details). This allows us to focus on automating the story elements, without also having to consider training up the team or dealing with the battle AI.
 
-# Setup of Settings
+### Setup of Settings
 
 **Switch Settings:**
 
 1. Screen size: Must be 100% within the Switch settings
-2. [Switch 2: The profile you are using must be the 1st (left-most) profile.](../NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
-3. System Time: Unsynced
+2. System Time: Unsynced
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+4. [Switch 2: The profile you are using must be the 1st (left-most) profile.](../NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
 
 **Program Settings:**
 

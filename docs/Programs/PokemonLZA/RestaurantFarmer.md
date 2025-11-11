@@ -13,7 +13,8 @@ There are currently 4 restaurants suitable for this:
 
 <img src="images/RestaurantFarmer.png">
 
-### Instructions
+
+### Setup of Settings
 
 **Switch Settings:**
 
@@ -28,7 +29,8 @@ There are currently 4 restaurants suitable for this:
 
 1. Text Speed: Fast
 
-**Setup:**
+
+### Instructions
 
 1. Make sure you have all 3 Gold Canari Plushies. Otherwise you will lose money over time!
 2. Stand facing the restaurant receptionist.

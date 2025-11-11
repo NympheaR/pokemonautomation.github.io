@@ -14,7 +14,8 @@ Shiny sound detection will happen at most once since in this game the shiny is s
 
 <img src="images/ShinyHunt-WildZoneEntrance.png">
 
-### Instructions
+
+### Setup of Settings
 
 **Switch Settings:**
 
@@ -29,7 +30,8 @@ Shiny sound detection will happen at most once since in this game the shiny is s
 
 1. Text Speed: Fast
 
-**Setup:**
+
+### Instructions
 
 1. Place your character in front of the entrance and face it.
 2. Start the program in the game.

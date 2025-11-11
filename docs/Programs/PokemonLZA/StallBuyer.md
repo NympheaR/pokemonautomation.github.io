@@ -4,7 +4,8 @@
 
 Purchase berries or mints from stalls.
 
-## Settings
+
+### Setup of Settings
 
 **Game Settings:**
 
@@ -25,7 +26,8 @@ Purchase berries or mints from stalls.
 
 1. Text Speed: Fast
 
-**Setup:**
+
+### Instructions
 
 1. Go to the stall that you wish to purchase something from
 <img src="images/StallBuyer-Location-1.png">

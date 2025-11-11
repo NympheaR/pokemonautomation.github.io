@@ -7,7 +7,7 @@ Trade boxes of Pokémon between two Switches locally.
 <img src="images/SelfBoxTrade.png">
 
 
-### Instructions
+### Setup of Settings
 
 **Switch Settings:**
 
@@ -22,7 +22,8 @@ Trade boxes of Pokémon between two Switches locally.
 
 1. Text Speed: Fast
 
-**Setup:**
+
+### Instructions
 
 1. Both Switches have N boxes completely filled consecutively in the box system.
 2. All Pokémon in these N boxes on both Switches must be tradable.
