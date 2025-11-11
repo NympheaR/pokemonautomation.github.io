@@ -20,7 +20,10 @@ Because the shiny sound has a much smaller audible radius than the spawn radius,
 **Program Settings:**
 
 1. Video Resolution: 1080p or higher
-2. Text Speed: Fast
+
+**Game Settings:**
+
+1. Text Speed: Fast
 
 **Setup:**
 

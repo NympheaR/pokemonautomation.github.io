@@ -24,7 +24,10 @@ Shiny sound detection will happen at most once since in this game the shiny is s
 **Program Settings:**
 
 1. Video Resolution: 1080p or higher
-2. Text Speed: Fast
+
+**Game Settings:**
+
+1. Text Speed: Fast
 
 **Setup:**
 

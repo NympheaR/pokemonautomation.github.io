@@ -18,7 +18,10 @@ With max level Canari Plush you will get 8100 Poké Dollar per round.
 **Program Settings:**
 
 1. Video Resolution: 1080p or higher
-2. Text Speed: Fast
+
+**Game Settings:**
+
+1. Text Speed: Fast
 
 **Setup:**
 

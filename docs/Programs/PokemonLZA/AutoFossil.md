@@ -18,7 +18,10 @@ Hunt alpha and/or shiny fossil Pokémon by repeatedly reviving them and checking
 **Program Settings:**
 
 1. Video Resolution: 1080p or higher
-2. Text Speed: Fast
+
+**Game Settings:**
+
+1. Text Speed: Fast
 
 **Setup:**
 

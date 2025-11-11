@@ -21,7 +21,6 @@ While this program is intended for catching a knocked out Pokémon, it can be us
 **Program Settings:**
 
 1. Video Resolution: 1080p or higher
-2. Text Speed: Fast
 
 **Setup:**
 

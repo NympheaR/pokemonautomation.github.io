@@ -24,7 +24,10 @@ The important aspect of this method is that you must be close enough to the spaw
 **Program Settings:**
 
 1. Video Resolution: 1080p or higher
-2. Text Speed: Fast
+
+**Game Settings:**
+
+1. Text Speed: Fast
 
 **Setup:**
 
