@@ -12,6 +12,18 @@ Because the shiny sound has a much smaller audible radius than the spawn radius,
 
 ### Instructions
 
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+2. Text Speed: Fast
+
+**Setup:**
+
 1. Face a bench such that the A button is visible.
 2. Start the program in the game.
 

@@ -6,13 +6,19 @@ Purchase clothing from shops.
 
 <img src="images/ClothingBuyer.png">
 
-## Settings
-
-**Game Settings:**
-
-1. Text Speed: Fast
-
 ## Instructions
+
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+2. Text Speed: Fast
+
+**Setup:**
 
 1. The selection arrow is on the first item in the menu for buying clothing. (See example picture.)
 2. Start the program in-game. The program will automatically stop when the number of categories is hit (see options).

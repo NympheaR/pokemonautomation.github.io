@@ -10,6 +10,18 @@ With max level Canari Plush you will get 8100 Poké Dollar per round.
 
 ### Instructions
 
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+2. Text Speed: Fast
+
+**Setup:**
+
 1. Train a strong steel or poison type Pokémon that can defeat Jacinthe's high-level fairy type Pokémon. We recommend Metagross (see below).
 2. Stand facing Jacinthe in Hotel Richissime with Button A icon visible.
 3. Select the strong Pokémon so it will lead the battle.

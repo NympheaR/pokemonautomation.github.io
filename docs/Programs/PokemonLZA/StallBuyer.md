@@ -12,6 +12,18 @@ Purchase berries or mints from stalls.
 
 ## Instructions
 
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+2. Text Speed: Fast
+
+**Setup:**
+
 1. Go to the stall that you wish to purchase something from
 <img src="images/StallBuyer-Location-1.png">
 <img src="images/StallBuyer-Location-2.png">

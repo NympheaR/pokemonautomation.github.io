@@ -7,17 +7,25 @@ Trade boxes of Pokémon between two Switches locally.
 <img src="images/SelfBoxTrade.png">
 
 
-### Box Setup
+### Instructions
+
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+2. Text Speed: Fast
+
+**Setup:**
 
 1. Both Switches have N boxes completely filled consecutively in the box system.
 2. All Pokémon in these N boxes on both Switches must be tradable.
-
-
-### Instructions
-
-1. The two Switches are in a trade together.
-2. Both Switches are on the first (left-most) box of the N boxes that they will exchange.
-3. Start the program in the game.
+3. The two Switches are in a trade together.
+4. Both Switches are on the first (left-most) box of the N boxes that they will exchange.
+5. Start the program in the game.
 
 The location of the cursor in the box does not matter. The program will read it and move it accordingly.
 

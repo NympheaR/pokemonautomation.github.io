@@ -15,6 +15,18 @@ There are currently 4 restaurants suitable for this:
 
 ### Instructions
 
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+2. Text Speed: Fast
+
+**Setup:**
+
 1. Make sure you have all 3 Gold Canari Plushies. Otherwise you will lose money over time!
 2. Stand facing the restaurant receptionist.
 3. Start the program in the game.

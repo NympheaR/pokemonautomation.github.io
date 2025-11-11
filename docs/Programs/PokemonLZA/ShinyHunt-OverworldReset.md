@@ -15,6 +15,19 @@ The important aspect of this method is that you must be close enough to the spaw
 
 ### Instructions
 
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+3. [Switch 2: The profile you are using must be the 1st (left-most) profile.](../NintendoSwitch/Switch2Notes.md#resetting-a-game-moves-the-cursor-to-the-1st-user-profile)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+2. Text Speed: Fast
+
+**Setup:**
+
 1. Save near a Pokémon that is about to respawn.
 2. Start the program in the game.
 3. Make sure your "Reset Delay" option is long enough that the Pokémon is able to respawn with enough time to play the shiny sound with a few seconds to spare.
