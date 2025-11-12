@@ -1,6 +1,6 @@
 # Shiny Hunt Recommendations
 
-### Wild Zone 20 Alphas
+## Wild Zone 20 Alphas
 
 **Program:** [Shiny Hunt - Bench Sit](ShinyHunt-BenchSit.md)
 
@@ -8,7 +8,7 @@
 - **Run Forward Direction:** 3000 ms
 
 
-### Alpha Ampharos
+## Alpha Ampharos
 
 **Program:** [Shiny Hunt - Wild Zone Entrance](ShinyHunt-WildZoneEntrance.md)
 
@@ -16,7 +16,7 @@
 - **Walk Time in Zone:** Anything small
 
 
-### Froakie
+## Froakie
 
 **Program:** [Shiny Hunt - Wild Zone Entrance](ShinyHunt-WildZoneEntrance.md)
 
@@ -24,7 +24,7 @@
 - **Walk Time in Zone:** Anything small
 
 
-### Alpha Whirlpede
+## Alpha Whirlpede
 
 **Program:** [Shiny Hunt - Wild Zone Entrance](ShinyHunt-WildZoneEntrance.md)
 
@@ -32,7 +32,7 @@
 - **Walk Time in Zone:** 3000 ms
 
 
-### Alpha Bellsprout
+## Alpha Bellsprout
 
 **Program:** [Shiny Hunt - Wild Zone Entrance](ShinyHunt-WildZoneEntrance.md)
 
@@ -40,7 +40,7 @@
 - **Walk Time in Zone:** 3000 ms
 
 
-### Ralts
+## Ralts
 
 **Program:** [Shiny Hunt - Bench Sit](ShinyHunt-BenchSit.md)
 
